@@ -1,0 +1,1 @@
+start "" "c:\Program Files\Skype\Phone\Skype.exe"
