@@ -1,0 +1,1 @@
+start "" "c:\Program Files\totalcmd\TOTALCMD.EXE" %*
