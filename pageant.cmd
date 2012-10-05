@@ -1,1 +1,1 @@
-start "" "c:\Program Files (x86)\PuTTY\pageant.exe" c:\Users\denisra.REDMOND\ssh-keys\private.ppk 
+start "" "c:\Program Files (x86)\PuTTY\pageant.exe" %HOME%\ssh-keys\private.ppk 
